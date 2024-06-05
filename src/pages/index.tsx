@@ -1,4 +1,4 @@
-import Layout from '../components/layout';
+import Layout from '../components/Layout';
 
 const products = [
   { id: 1, name: 'Product 1', price: 29.99 },
